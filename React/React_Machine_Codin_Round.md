@@ -1,5 +1,15 @@
 ## Todo App
+Functionalities to Implement
 
+Create item (triggered by pressing Enter)
+
+Toggle item (use "✓" for completed items)
+
+Delete item (use "x" for delete button)
+
+Filter items (all statuses)
+
+Item count (show "X items left")
 <img width="467" height="506" alt="image" src="https://github.com/user-attachments/assets/aaadd038-425f-4b09-abdf-782a11165baf" />
 
 
