@@ -1,10 +1,10 @@
 
 
-https://leetcode.com/discuss/interview-question/742791/front-end-interview-questions
+https://leetcode.com/discuss/interview-question/742791/front-end-interview-questionss
 https://leetcode.com/discuss/interview-experience/2072679/livspace-interview-questions-front-end-sde-1-my-journery-from-76lpa-to-27-lpa
 <img width="785" alt="Screenshot 2024-09-07 at 10 26 59 AM" src="https://github.com/user-attachments/assets/32e611fd-4d11-45dc-957f-e9a4cfad6633">
 
-# JavaScript Interview Questions
+# JavaScript Interview Questionss
 
 1. **Implement a function that serializes a JavaScript value into a JSON string.**
 2. **Implement a function that performs a deep copy of a value, but also handles circular references.**
