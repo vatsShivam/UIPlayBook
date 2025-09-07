@@ -1,9 +1,31 @@
 ## Todo App
+Functionalities to Implement
 
+Create item (triggered by pressing Enter)
+
+Toggle item (use "✓" for completed items)
+
+Delete item (use "x" for delete button)
+
+Filter items (all statuses)
+
+Item count (show "X items left")
 <img width="467" height="506" alt="image" src="https://github.com/user-attachments/assets/aaadd038-425f-4b09-abdf-782a11165baf" />
 
 
 ## Star Rating
+Create a star rating widget that allows users to select a rating value.
+
+Requirements
+The widget accepts two parameters: the maximum number of stars and the number of currently filled stars.
+When a star is clicked, it is filled along with all the stars to its left.
+Hovering over a star fills that star and all stars to its left.
+The stars which need to be filled during hover take priority over existing filled state.
+If the cursor leaves the widget and no new selection is made, the appropriate stars revert to the filled state before the hovering.
+Make the star rating widget reusable such that multiple instances can be rendered within the same page.
+The star icons, both empty and filled, are provided to you as SVGs.
+
+A StarRating.js skeleton component has been created for you. You are free to decide the props of <StarRating />.
 <img width="629" height="269" alt="image" src="https://github.com/user-attachments/assets/037f193f-c359-4a90-81e5-bf23780805a2" />
 
 - We need to use 3 listener
